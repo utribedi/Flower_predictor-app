@@ -1,3 +1,3 @@
 # flower_predictor
 Iris Flower Prediction App. 
-This app predicts the "Iris flower" type!
+This ML app predicts the "Iris flower" type!
