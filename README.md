@@ -3,4 +3,4 @@ Iris Flower Prediction App.
 This ML web app predicts the "Iris flower" type!
 (Deployed using Heroku)
 
-App: https://flowerpredictor.herokuapp.com/https://flowerpredictor.herokuapp.com/
+App: https://flowerpredictor.herokuapp.com/
